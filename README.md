@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dundorma&layout=compact&theme=great-gatsby)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dundorma&theme=great-gatsby)
 
 ### 🛠Languages and Tools
 
