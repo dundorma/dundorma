@@ -9,7 +9,7 @@
     🎮 Music • Manga • Code • Art
 </pre>
 <br><br>
-<img src="./assets/ferris.gif" height="40"/>
+<img src="./assets/ferris.gif" height="60"/>
 <br><br><br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/moh-rizky-arif)
