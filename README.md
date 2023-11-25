@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./assets/banner.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5B14&center=true&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Arif;I'm+a+Cybersecurity+Enthusiast;And+also+a+RUST+enjoyer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D87644&center=true&random=false&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Arif;I'm+a+Cybersecurity+Enthusiast;And+also+a+RUST+enjoyer" />
 <br><br>
 <pre>
     💼 Cyber Security Engineer @ Cyberkarta • Back-end dev
