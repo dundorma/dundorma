@@ -11,7 +11,8 @@
 <br><br>
 <img src="./assets/ferris.gif" height="40"/>
 <br><br><br>
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://linkedin.com/in/moh-rizky-arif)
+
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/moh-rizky-arif)
 </div>
 
 <!-- ![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dundorma&layout=compact&theme=great-gatsby) -->
